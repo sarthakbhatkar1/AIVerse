@@ -9,8 +9,7 @@
 
 **A universal chat interface for multiple AI language models in a single Flutter app**
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Supported Platforms](#-supported-platforms) • [Contributing](#-contributing)
-
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Supported Platforms](#-supported-platforms) 
 </div>
 
 ---
